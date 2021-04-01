@@ -37,6 +37,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
+        title: 永发门窗
       - title: Feature 2
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
