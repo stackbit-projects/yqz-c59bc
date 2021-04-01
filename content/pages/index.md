@@ -25,7 +25,7 @@ sections:
   - type: features_section
     title: Features
     features:
-      - title: 永发门窗
+      - title: 永发门窗sdfs
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
